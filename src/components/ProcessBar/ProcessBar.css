@@ -1,0 +1,24 @@
+.ProcessBar {
+    margin-top: 200px;
+    width: 300px;
+    margin-top: 0px;
+
+}
+
+.ProcessBar-Main {
+
+    margin: 0px;
+    height: 30px;
+    margin-bottom: 10px;
+    background-color: beige;
+    border-radius: 10px;
+
+}
+
+.ProcessBar-Fill {
+    width: 5px;
+    height: 100%;
+    background-color: greenyellow;
+    border-radius: 10px;
+    margin: 0px;
+}

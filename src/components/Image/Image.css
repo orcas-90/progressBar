@@ -1,0 +1,15 @@
+.Image {
+    margin-top: 50px;
+}
+.Image-Dog {
+    display: none;
+    width: 250px;
+    height: 300px;
+
+
+}
+.Image-Dog_Yes {
+    display: inline-block;
+    width: 250px;
+    height: 300px;
+}
